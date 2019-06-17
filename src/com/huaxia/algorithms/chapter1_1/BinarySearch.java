@@ -20,8 +20,8 @@ public class BinarySearch {
 	}
 	
 	public static void main(String[] args) {
-		int key = 33;
-		int[] arrs = {1,2,3,5,7,33,55,87};
+		int key = 32;
+		int[] arrs = {1,2,3,5,7,31,32,33,55,87};
 		System.out.println(rank(key,arrs));
 	}
 
