@@ -3,7 +3,7 @@ package com.huaxia.algorithms.chapter1_1;
 public class Practise1_1_9 {
 	public static void main(String[] args) {
 		//将一个正整数转化为一个二进制数的字符串
-		int n = 1024;
+		int n = 512;
 		//自带方法
 		//String s = Integer.toBinaryString(n);
 		String s =toBinaryString(n);
