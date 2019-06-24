@@ -19,7 +19,7 @@ public class Practise1_1_24 {
 		}else
 			return m;
 		while(q!=0){
-			System.out.println(p+q);
+			System.out.println("p:"+p+" q:"+q);
 			int t = q;
 			q=p%q;
 			p = t;
