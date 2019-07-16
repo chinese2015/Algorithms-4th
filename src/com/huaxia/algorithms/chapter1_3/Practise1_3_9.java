@@ -48,7 +48,6 @@ public class Practise1_3_9 {
 		}
 		//打印拼接结果,也就是数字栈中的唯一成员
 			String finalExpression = vals.pop();
-			System.out.println(finalExpression);
 		//更改逆序为顺序
 			String seq = "";
 			for(int i = finalExpression.length()-1;i>=0;i--){
